@@ -2,13 +2,30 @@ body {
   background-image:url('../img/background1.jpg');
 }
 
-.title {
+.title{
+  text-align: center;
+  color: #D6D7DB;
+  font-size: 2em;
+  margin: .5em 0 1em 0;
+}
+
+.title.main{
   text-align: center;
   color: #D6D7DB;
   font-size: 5em;
   margin: 0 0 .6em 0;
 }
+
 .navigation {
   font-size: 1.2em;
   color: #D6D7DB;
+}
+
+p {
+  color: #D6D7DB;
+}
+
+.icons{
+  color: #D6D7DB;
+  font-size: .9em;
 }
