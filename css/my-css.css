@@ -1,5 +1,6 @@
 body {
   background-image:url('../img/background1.jpg');
+  background-attachment: fixed;
 }
 
 .title{
@@ -28,4 +29,11 @@ p {
 .icons{
   color: #D6D7DB;
   font-size: .9em;
+}
+
+.sandbeach{
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
