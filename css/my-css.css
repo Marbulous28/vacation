@@ -1,0 +1,9 @@
+body {
+  background-image:url('../img/background1.jpg');
+}
+
+.title {
+  text-align: center;
+  color: #D6D7DB;
+  font-size: 4em;
+}
